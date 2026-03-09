@@ -4,7 +4,6 @@
 
 **Concepts • Applications • Wireless Communication • Mobile Systems**
 
----
 
 ## 📌 About Mobile-Computing
 
